@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  flex: 1 0 100%;
+  box-shadow: 5px 5px 5px, -5px -5px 5px rgba(220, 216, 216, 0.8);
+  border-radius: 30px 30px 30px 30px;
+  padding: 10px;
+  height: 450px;
+  background-color: transparent;
+  width: 800px;
+  margin: auto;
+}
+
+.img {
+  padding: 10px;
+}
+
+body {
+  padding-top: 70px;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: white;
+}
+
+h1 {
+  color: black;
+}
+p {
+  padding: 5px;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
